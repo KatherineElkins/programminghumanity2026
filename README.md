@@ -1,1 +1,1 @@
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/programminghumanity2026/blob/main/notebooks/Reverse-Engineer_a_Vibe_Student.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KatherineElkins/programminghumanity2026/blob/main/Reverse-Engineer_a_Vibe_Student%20%281%29.ipynb)
